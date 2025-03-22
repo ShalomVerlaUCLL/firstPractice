@@ -1,6 +1,6 @@
 package firstPractice.classActivity1;
 
-public class login {
+public class Login {
 
     private String email;
 
